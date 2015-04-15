@@ -1,0 +1,1 @@
+The project is outdated. Old source codes are available at https://github.com/adilek/nbpascal
